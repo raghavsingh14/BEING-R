@@ -13,7 +13,9 @@ This is a Robotic project. BEING-R is termed as _**Biological Equivalent Intelli
 8.) 3-Wheeled Chassis: It is the base of our rover on which all the other hardwares will be implemented. 
 
 **Information Regarding its Embedded Intelligence:**
+
 This rover consist of five modules of Embedded Intelligence.
+
 1.) _Light Intensity Detector_: It detects the light intensity from various sources. So that, it can consume sunlight to recharge its battery. This module is basically based on                                 the OpenCV technology. 
 
 2.) _QR Code detection and decoding_: We use this concept so that decoding of QR Code help the rover to navigate the path using QR Codes. This module is also based on                                                 the OpenCV technology. 
