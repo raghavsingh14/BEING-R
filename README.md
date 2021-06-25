@@ -3,6 +3,7 @@
 This is a Robotic project. BEING-R is termed as _**Biological Equivalent Intelligence Naive Generation - Rover**._ It is an autonomous rover which can perform various tasks which are biologically similiar to the Human Activities. These activities performed with the help of intelligence modules embedded in it.
 
 **Hardwares Required:**
+
 1.) Raspberry Pi 3B+: It is a Microprocessor(or Mini CPU).
 2.) Arduino Nano: It is a Microcontroller which gives the commands to different sensors and actuator to perfrom various tasks.
 3.) Raspberry Pi Camera: For detecting the obstacle and capturing pictures.
