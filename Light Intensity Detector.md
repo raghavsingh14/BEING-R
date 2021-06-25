@@ -1,0 +1,1 @@
+** This is the part of Light Intensity Detector module. detect_direction.py detects the direction after finding one of the four sides which have relatively more light intensity and then start moving in this direction. 
