@@ -5,12 +5,19 @@ This is a Robotic project. BEING-R is termed as _**Biological Equivalent Intelli
 **Hardwares Required:**
 
 1.) Raspberry Pi 3B+: It is a Microprocessor(or Mini CPU).
+
 2.) Arduino Nano: It is a Microcontroller which gives the commands to different sensors and actuator to perfrom various tasks.
+
 3.) Raspberry Pi Camera: For detecting the obstacle and capturing pictures.
+
 4.) BMP Sensor: For measuring the Pressure in sorroundings.
+
 5.) LDR Sensor: For detecting light sources in the sorroundings.
+
 6.) DHT11 Sensor: For measuring the tempreature.
+
 7.) Actuator and Wheels: Helps in motion.
+
 8.) 3-Wheeled Chassis: It is the base of our rover on which all the other hardwares will be implemented. 
 
 **Information Regarding its Embedded Intelligence:**
